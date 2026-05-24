@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Creative Sandbox",
+  "description": "A refined, desktop-first workspace for smart content generation, prompt benchmarking, and raw Gemini model interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
